@@ -1,4 +1,4 @@
-#scMID   
+# scMID   
 
 a feature selection method based on the integration of single-cell multi-omics data and the dropout pattern.
 
